@@ -10,5 +10,7 @@ In this file, you must edit this two variables:
 ```songs.py
 CLIENT_ID = 'YOUR_CLIENT_ID'
 CLIENT_SECRET = 'YOUR_CLIENT_SECRET'
-``` to your value.
+``` 
+to your value.
+<h3 align="center">Here we go!</h3>
 

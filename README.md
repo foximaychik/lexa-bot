@@ -6,3 +6,9 @@ First, download it. Then unzip and open "settings.py" file. In this file change 
 TOKEN = 'YOUR_TOKEN'
 ```
 Then open "cogs" folder, then "songs.py".
+In this file, you must edit this two variables:
+```songs.py
+CLIENT_ID = 'YOUR_CLIENT_ID'
+CLIENT_SECRET = 'YOUR_CLIENT_SECRET'
+``` to your value.
+
